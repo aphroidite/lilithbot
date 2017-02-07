@@ -3,7 +3,7 @@
 
 # Lilith; python based discord bot built over Red's code.
 #### *Music, admin, trivia, and other stuff*
-[<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://github.com/Rapptz/discord.py) [<img src="https://discordapp.com/api/guilds/227983518498684930/widget.png?style=shield">](https://discord.gg/YfB7yXf) [![Build Status](https://travis-ci.org/aphroidite/lilithbot.svg?branch=master)](https://travis-ci.org/aphroidite/lilithbot)
+[<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://github.com/Rapptz/discord.py) [<img src="https://discordapp.com/api/guilds/227983518498684930/widget.png?style=shield">](https://discord.gg/YfB7yXf) [![Build Status](https://travis-ci.org/aphroidite/lilithbot.svg?branch=develop)](https://travis-ci.org/aphroidite/lilithbot)
 
 > **Red** is a fully modular bot which comes with sets of features/commands that can be enabled/disabled to your liking, making it customizable exactly how you want.  
 You can turn Red into a trivia bot, an admin bot, a music bot (...) or all of these together.  
