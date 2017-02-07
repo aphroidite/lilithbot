@@ -39,6 +39,7 @@
     "cogs.slap" : true,
     "cogs.steam" : true,
     "cogs.streams" : true,
+    "cogs.terminal" : true,
     "cogs.tickets" : true,
     "cogs.trigger" : true,
     "cogs.trivia" : true,
