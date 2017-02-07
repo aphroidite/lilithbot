@@ -1,0 +1,21 @@
+{
+    "227983518498684930" : {
+        "ADMIN_ROLE" : "Administrator",
+        "MOD_ROLE" : "Moderator",
+        "PREFIXES" : [
+            "[l]"
+        ]
+    },
+    "EMAIL" : null,
+    "OWNER" : "225300293951291393",
+    "PASSWORD" : null,
+    "PREFIXES" : [
+        "[l]"
+    ],
+    "TOKEN" : "MjMwOTIyNDczMTc1MTIxOTIw.C1Xp4w.bgF4j1KGdpEBJGJwjONZAle4qOo",
+    "default" : {
+        "ADMIN_ROLE" : "Kami-sama",
+        "MOD_ROLE" : "Moderator",
+        "PREFIXES" : []
+    }
+}
