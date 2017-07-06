@@ -5,7 +5,7 @@
 #### *Music, admin, trivia, and other stuff*
 [<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://github.com/Rapptz/discord.py) [<img src="https://discordapp.com/api/guilds/227983518498684930/widget.png?style=shield">](https://discord.gg/YfB7yXf) [![Build Status](https://travis-ci.org/aphroidite/lilithbot.svg?branch=develop)](https://travis-ci.org/aphroidite/lilithbot)
 
-Just updating.
+Just updating
 
 # License
 
